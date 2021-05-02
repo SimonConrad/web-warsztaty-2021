@@ -1,0 +1,1 @@
+Backend aplikacji s³uzacej do zarz¹dzania list¹ TODO
